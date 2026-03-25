@@ -4,7 +4,7 @@ const path = require("path");
 
 // --- CONFIGURAÇÕES ---
 // COLOQUE O LINK DA SUA OFERTA REAL (BLACK) ABAIXO:
-const URL_OFERTA_BLACK = "https://link-da-sua-oferta-aqui.com"; 
+const URL_OFERTA_BLACK = "https://mercadolivecomdesconto.com/952367148"; 
 
 // Caminho para a Página Segura (White) local
 const PATH_PAGINA_WHITE = path.join(__dirname, "..", "public", "white.html"); 
