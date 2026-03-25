@@ -1,0 +1,12 @@
+{
+  "name": "vercel-cloaker",
+  "version": "1.0.0",
+  "description": "Cloaker inteligente para Vercel com Node.js",
+  "main": "api/index.js",
+  "scripts": {
+    "start": "vercel dev"
+  },
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  }
+}
